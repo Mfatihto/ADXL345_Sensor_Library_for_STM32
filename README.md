@@ -1,1 +1,1 @@
-# STM32_Projects
+# ADXL345 Sensor Library for STM32 Deviceses
